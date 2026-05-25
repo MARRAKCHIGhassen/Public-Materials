@@ -1,4 +1,3 @@
-```markdown
 # Public Materials
 
 > A collection of public resources, datasets, and materials for research and collaboration.
